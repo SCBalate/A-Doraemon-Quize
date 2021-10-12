@@ -31,10 +31,14 @@ answer:"nobita"
 },{
   question:"who is nobita's crush?",
   answer:"shizuka"
-}
+},
 {
   question:"who is richest guy in Doraemon?",
   answer:"sunio"
+},
+{
+  question:"who is fatty guy in Doraemon?",
+  answer:"Gian"
 }
 ];
  for(var i=0;i<questions.length;i++) {
