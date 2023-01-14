@@ -3,7 +3,7 @@ const chalk = require('chalk');
  
 console.log(chalk.blue('Hello buddy!'));
 var score=0;
-var userName=readlineSync.question("what is your name? ");
+var userName=readlineSync.question("what is your name?");
 console.log("welcome " + userName + " Do you know Doraemon?,lets see how much do you know about him");
 function play(question,answer){
   var userAnswer=readlineSync.question(question);
